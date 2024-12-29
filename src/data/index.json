@@ -1,0 +1,84 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "An innovative Frontend Developer specializing in building responsive,user web interfaces ,technologies."
+
+
+
+
+
+
+
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "A skilled Backend Developer focused on designing and implementing robust, scalable server-side applications"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "A talented UX/UI Designer dedicated to creating intuitive, visually appealing user interfaces tristique"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "An expert in Webflow, skilled at designing and developing visually stunning, fully responsive websites"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/chatimage.jpg",
+      "title": "Ahuse",
+      "description": "A chat application is a software platform or program that enables users to send and receive messages in real-time over the internet or a network",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/expenseimagessss.jpg",
+      "title": "App Dashboard",
+      "description": "An expense tracker app is a software application designed to help individuals or businesses monitor, manage, and analyze their spending and income.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/todorrr.avif",
+      "title": "Easy Rentn",
+      "description": "A to-do app is a software application that helps users organize, manage, and prioritize their tasks, goals, or activities. It is commonly used for personal productivity, work management, or collaborative team planning daily life use",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "The app design is clean and intuitive. I can easily navigate through different sections like the chat window, settings",
+      "author_name": "Razi Ahmad",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "I like how the main dashboard provides a quick overview of my spending, income, and savings in an easy-to-read format.",
+      "author_name": "Modassir arfeen",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Here’s how you can structure feedback for a To-Do app, providing both positive comments and constructive suggestions.",
+      "author_name": "Mir Arbaj",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
